@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "peer-common",
+    "peer-core",
+    "peer-cli"
+]
+
+resolver = "3"
