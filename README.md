@@ -11,6 +11,14 @@ Welcome to P2P Encrypted Chat, a secure and private command-line chat applicatio
 - **Peer Aliases**: Save your friends' addresses with easy-to-remember aliases.
 - **Colored Chat UI**: A simple and intuitive interface with colored messages and timestamps.
 
+## Screenshots
+
+_Discovering a peer on the network:_
+![Discovering a peer](discover.png)
+
+_Connecting to a peer by alias:_
+![Connecting to a peer](alias.png)
+
 ## How It Works
 
 This application uses a peer-to-peer (P2P) model. Here's a simple breakdown of how it works:
